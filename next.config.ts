@@ -5,3 +5,4 @@ const nextConfig: NextConfig = {
 };
 
 export default nextConfig;
+serverExternalPackages: ["@google/generative-ai"],
