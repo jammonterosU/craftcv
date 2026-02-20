@@ -16,7 +16,7 @@ export default function CTA() {
               Ready to land your dream job?
             </h2>
             <p className="text-indigo-100 text-lg mb-8 max-w-2xl mx-auto">
-              Join 50,000+ professionals who built their perfect resume with ResumeAI.
+              Join 50,000+ professionals who built their perfect resume with CraftCV.
               Start free — no credit card required.
             </p>
 

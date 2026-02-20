@@ -13,10 +13,10 @@ export default function Navbar() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
             <div className="w-8 h-8 gradient-bg rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-sm">R</span>
+              <span className="text-white font-bold text-sm">C</span>
             </div>
             <span className="font-bold text-xl text-slate-900">
-              Resume<span className="text-indigo-600">AI</span>
+              Craft<span className="text-indigo-600">CV</span>
             </span>
           </Link>
 

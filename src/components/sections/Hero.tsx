@@ -85,7 +85,7 @@ export default function Hero() {
                 <div className="w-3 h-3 bg-green-400 rounded-full" />
               </div>
               <div className="flex-1 bg-white rounded-md px-3 py-1 text-xs text-slate-400 text-center border border-slate-200">
-                resumeai.app/builder
+                craftcv.io/builder
               </div>
             </div>
             {/* App preview */}

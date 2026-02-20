@@ -9,10 +9,10 @@ export default function Footer() {
           <div className="md:col-span-1">
             <Link href="/" className="flex items-center gap-2 mb-4">
               <div className="w-8 h-8 gradient-bg rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-sm">R</span>
+                <span className="text-white font-bold text-sm">C</span>
               </div>
               <span className="font-bold text-xl text-white">
-                Resume<span className="text-indigo-400">AI</span>
+                Craft<span className="text-indigo-400">CV</span>
               </span>
             </Link>
             <p className="text-sm leading-relaxed mb-4">
@@ -69,7 +69,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-slate-800 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <p className="text-sm">© 2025 ResumeAI. All rights reserved.</p>
+          <p className="text-sm">© 2025 CraftCV. All rights reserved.</p>
           <div className="flex items-center gap-2 text-sm">
             <span className="w-2 h-2 bg-green-400 rounded-full" />
             <span>All systems operational</span>

@@ -5,7 +5,7 @@ const testimonials = [
     avatar: "SC",
     avatarColor: "bg-indigo-500",
     content:
-      "I applied to 12 companies and got 9 interviews. ResumeAI's ATS optimization is insane — my old resume was getting filtered out everywhere.",
+      "I applied to 12 companies and got 9 interviews. CraftCV's ATS optimization is insane — my old resume was getting filtered out everywhere.",
     rating: 5,
   },
   {
@@ -23,7 +23,7 @@ const testimonials = [
     avatar: "PP",
     avatarColor: "bg-pink-500",
     content:
-      "As a career changer, I had no idea how to present my skills. ResumeAI helped me translate my background into tech language that recruiters love.",
+      "As a career changer, I had no idea how to present my skills. CraftCV helped me translate my background into tech language that recruiters love.",
     rating: 5,
   },
   {
@@ -32,7 +32,7 @@ const testimonials = [
     avatar: "JW",
     avatarColor: "bg-blue-500",
     content:
-      "The templates are gorgeous and the AI suggestions are spot-on. I landed my dream job at Airbnb after just 2 weeks of using ResumeAI.",
+      "The templates are gorgeous and the AI suggestions are spot-on. I landed my dream job at Airbnb after just 2 weeks of using CraftCV.",
     rating: 5,
   },
   {
@@ -41,7 +41,7 @@ const testimonials = [
     avatar: "ER",
     avatarColor: "bg-green-500",
     content:
-      "I've recommended ResumeAI to my entire team. The cover letter builder alone is worth the subscription — it writes better than I do!",
+      "I've recommended CraftCV to my entire team. The cover letter builder alone is worth the subscription — it writes better than I do!",
     rating: 5,
   },
   {
@@ -50,7 +50,7 @@ const testimonials = [
     avatar: "DK",
     avatarColor: "bg-orange-500",
     content:
-      "Competitive finance roles require perfect resumes. ResumeAI helped me craft a resume that stood out in a pool of 500+ applicants.",
+      "Competitive finance roles require perfect resumes. CraftCV helped me craft a resume that stood out in a pool of 500+ applicants.",
     rating: 5,
   },
 ];
@@ -69,7 +69,7 @@ export default function Testimonials() {
             <span className="gradient-text">real results</span>
           </h2>
           <p className="text-lg text-slate-600">
-            Join thousands of professionals who landed their dream jobs with ResumeAI.
+            Join thousands of professionals who landed their dream jobs with CraftCV.
           </p>
         </div>
 

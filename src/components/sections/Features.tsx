@@ -56,7 +56,7 @@ export default function Features() {
         {/* Header */}
         <div className="text-center max-w-3xl mx-auto mb-16">
           <div className="inline-flex items-center gap-2 bg-white border border-slate-200 rounded-full px-4 py-1.5 mb-4">
-            <span className="text-slate-600 text-sm font-medium">Why ResumeAI?</span>
+            <span className="text-slate-600 text-sm font-medium">Why CraftCV?</span>
           </div>
           <h2 className="text-4xl sm:text-5xl font-extrabold text-slate-900 mb-4">
             Everything you need to{" "}
