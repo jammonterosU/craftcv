@@ -1,4 +1,4 @@
-# Active Context: ResumeAI — AI Resume Builder SaaS
+# Active Context: CraftCV — AI Resume Builder SaaS
 
 ## Current State
 
